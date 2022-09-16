@@ -1,0 +1,21 @@
+/* body {
+    
+    
+}*/
+body {
+    margin: 0px;
+}
+
+header {
+    border: 10px solid  white;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav ul li{
+    list-style: none;
+    /*display:flex; */
+    display: inline;
+}

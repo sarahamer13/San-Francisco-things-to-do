@@ -1,0 +1,57 @@
+body {
+    background-color: beige;
+}*/
+body {
+    margin: 0px
+}
+header {
+    border: 5px solid black
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+        font-size-adjust: .5;
+    }
+
+
+nav ul li{
+    list-style: none;
+    display: flex; 
+    display: inline; 
+}
+
+h2 {
+    text-align: center;
+     
+}
+
+h2 { 
+    color: green;
+    font-size: 28px;
+        font-size-adjust: .5;
+    }
+
+    img { 
+    margin: auto 400px;
+    text-align: center;
+    }
+    
+    nav {
+        display: inline-block;
+    }
+    
+    nav li {
+        display: inline-block;
+        margin-right: 20px;
+    }
+
+    nav li {
+        font-size: 20px;
+        font-size-adjust: .5;
+    }
+
+    h3 {
+        font-size: 25px;
+        font-size-adjust: .5;
+    }
