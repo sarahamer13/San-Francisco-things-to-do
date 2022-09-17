@@ -5,7 +5,9 @@ body {
     margin: 0px
 }
 header {
-    border: 5px solid black
+    border: 2px solid black;
+    background-image:url(Getty_San-Francisco-CA-1.jpg);
+    background-size:cover;
 }
 
 h1 {
@@ -33,7 +35,7 @@ h2 {
     }
 
     img { 
-    margin: auto 400px;
+    margin: auto 250px;
     text-align: center;
     }
     
