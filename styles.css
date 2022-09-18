@@ -6,8 +6,8 @@ body {
 }
 header {
     border: 2px solid black;
-    background-image:url(Getty_San-Francisco-CA-1.jpg);
-    background-size:cover;
+    background-image:url(IMG_1052.jpg);
+    background-size: auto;
 }
 
 h1 {
@@ -49,7 +49,7 @@ h2 {
     }
 
     nav li {
-        font-size: 20px;
+        font-size: 25px;
         font-size-adjust: .5;
     }
 
