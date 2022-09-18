@@ -6,8 +6,8 @@ body {
 }
 header {
     border: 2px solid black;
-    background-image:url(IMG_1052.jpg);
-    background-size: auto;
+    background-image:url(Getty_San-Francisco-CA-1.jpg);
+    background-size: cover;
 }
 
 h1 {
