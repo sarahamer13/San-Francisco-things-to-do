@@ -1,6 +1,7 @@
 //let usersemotion = prompt("Are you happy or sad?");
 //document.write(usersemotion);
 
+
 function askTravel () {
     let message = prompt ("Do you like to travel?");
     if (message == "yes"){
