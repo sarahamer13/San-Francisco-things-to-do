@@ -3,13 +3,10 @@
 
 function getName(){
     let userName = prompt("what is your name?");
-    if (userName == "sandy"){
-    document.write ("That's a nice name");
-
-    } else if (userName == null){
-        document.write ("Nice Try!")
-    }
- else {
+    if (userName == " " || userName == null ||userName == undefined){
+    alert ("Try again, where are you going?");
+    getName ();
+    } else {
         document.write ("Hi " + userName + ", I love your name!");
     } 
 }
