@@ -12,7 +12,7 @@ header {
 
 h1 {
     text-align: center;
-    font-size: 40px;
+    font-size: 45px;
         font-size-adjust: .5;
     }
 
@@ -54,6 +54,14 @@ h2 {
     }
 
     h3 {
-        font-size: 25px;
+        color: green;
+        font-size: 40px;
         font-size-adjust: .5;
     }
+    ul li {
+        color: midnightblue;
+        font-size: 30px;
+        font-size-adjust: .5;
+    }
+        
+        
